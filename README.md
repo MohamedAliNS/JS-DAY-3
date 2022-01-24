@@ -1,1 +1,1 @@
-# JS-DAY-3
+N.S. Mohamed Ali. JS DAY 3 Assignment.
