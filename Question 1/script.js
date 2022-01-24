@@ -15,6 +15,7 @@ c.forEach (i => console.log(i));
 let d = ['{"name":"Ravi", "age":27, "phone": 9840031420,}'];
 for (let i of d) 
     console.log(i);
+    
 
 
 
