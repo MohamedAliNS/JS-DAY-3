@@ -34,3 +34,5 @@ let d = [{
 for (let i of d) {
     console.log(i);
 }
+
+
